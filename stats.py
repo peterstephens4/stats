@@ -1,3 +1,6 @@
+#  Peter Stephens
+# 5/14/2016
+
 import pandas as pd
 from scipy import stats
 
