@@ -1,0 +1,6 @@
+data analysis notes
+
+1. http://digitheadslabnotebook.blogspot.com/2011/10/machine-learning-gradient-descent.html
+2. https://hbfs.wordpress.com/2012/04/24/introduction-to-gradient-descent/
+3. http://math.stackexchange.com/questions/70728/partial-derivative-in-gradient-descent-for-two-variables
+4. https://github.com/jimcen33/Intro-to-Data-Science
